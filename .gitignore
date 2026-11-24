@@ -1,0 +1,6 @@
+# Keep plaintext notes, local scripts, and passphrase private — only push encrypted index.html to GitHub Pages
+.passphrase
+notes/
+README.md
+sync-html.ps1
+sync.cmd
